@@ -23,12 +23,5 @@ class DataMahasiswa103022330111
 
         Console.WriteLine("Nama {0} {1} dengan NIM {2} dari fakultas {3} ", mahasiswa.nama.depan, mahasiswa.nama.belakang, mahasiswa.nim, mahasiswa.fakultas);
     }
-    class Main
-    {
-        public static void main(string[] args)
-        {
-            var data = new DataMahasiswa103022330111();
-            data.ReadJSON();
-        }
-    }
+    
 }
