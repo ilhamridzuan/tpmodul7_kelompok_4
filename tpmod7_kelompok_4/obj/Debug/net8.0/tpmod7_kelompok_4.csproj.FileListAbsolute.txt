@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\tpmod7_kelompok_4\tpmod7_kelompok_4\obj\Debug\net8.0\tpmod7_kelompok_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\tpmod7_kelompok_4\tpmod7_kelompok_4\obj\Debug\net8.0\tpmod7_kelompok_4.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\tpmod7_kelompok_4\tpmod7_kelompok_4\obj\Debug\net8.0\tpmod7_kelompok_4.AssemblyInfo.cs
+C:\Users\user\Desktop\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\tpmod7_kelompok_4\tpmod7_kelompok_4\obj\Debug\net8.0\tpmod7_kelompok_4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SEMESTER 4\KONTRUKSI PERANGKAT LUNAK\tpmod7_kelompok_4\tpmod7_kelompok_4\obj\Debug\net8.0\tpmod7_kelompok_4.sourcelink.json
